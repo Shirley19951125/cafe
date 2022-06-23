@@ -1,6 +1,6 @@
 # wuxiaonan
 
-> A Vue.js project
+> A cafe page
 
 ## Build Setup
 
